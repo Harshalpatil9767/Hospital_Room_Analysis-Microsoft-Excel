@@ -92,7 +92,7 @@ The dashboard contains the following visual components:
 
 ## 📸 Sample Dashboard
 
-![Hospital Emergency Room Dashboard](./Hospital%20Dashboard%20Final%20.jpg)
+![Hospital Emergency Room Dashboard](https://github.com/Harshalpatil9767/Hospital_Room_Analysis-Microsoft-Excel/blob/33349167bdd6c4cd2d27ccd6c5eb10aead480a60/Hospital%20Dashboard%20Final%20.jpg)
 
 ---
 
